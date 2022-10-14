@@ -1,4 +1,6 @@
-# bayesian-double-bump-hunting
+# Bayesian double bump hunting 
+
+# Bayesian inference to study a signal with two or more decaying particles in a non-resonant background
 
 You'll find in this repo all the files needed for the calculation in the paper "Bayesian inference to study a signal with two or more decaying particles in a non-resonant background"
 
