@@ -14,5 +14,7 @@ This larger data set was created to see the evolution of the paper figure with m
 
 In the paper Appendix we show that the problem is that the true values for the $m_{bb}$ width (15 GeV) is too large in comparison with the $m_{bb}$ allowed range that goes from 100 to 140 GeV.  In the appendix we reduce the width, and some other adjustments, and with just 500 events we obtain a very good posterior.
 
+## Main plot to see in this directory
 
+"large_3250_events_full_run.png"
 
